@@ -1,0 +1,140 @@
+{
+  "personal": {
+    "name": "Alex Sharma",
+    "role": "FY BBA Student",
+    "tagline": "Aspiring Business Professional | Curious Learner | Future Entrepreneur",
+    "location": "Goa, India",
+    "email": "alex.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "profileImage": "",
+    "resumeLink": "#",
+    "about": "I am a first-year Bachelor of Business Administration student interested in business strategy, marketing, finance, entrepreneurship, and technology. I enjoy learning new skills, working on practical projects, and exploring how businesses create value."
+  },
+
+  "socials": {
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "instagram": "https://www.instagram.com/"
+  },
+
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration (BBA)",
+      "institution": "ABC College of Management",
+      "location": "Goa, India",
+      "duration": "2026 - 2029",
+      "description": "Currently pursuing my first year of BBA with an interest in marketing, finance, entrepreneurship, and business analytics.",
+      "grade": "Currently Pursuing"
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "XYZ Higher Secondary School",
+      "location": "Goa, India",
+      "duration": "2024 - 2026",
+      "description": "Completed higher secondary education with a focus on commerce and business-related subjects.",
+      "grade": "85%"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Communication",
+      "level": 85
+    },
+    {
+      "name": "Presentation",
+      "level": 80
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": 75
+    },
+    {
+      "name": "Marketing Fundamentals",
+      "level": 70
+    },
+    {
+      "name": "Business Research",
+      "level": 70
+    },
+    {
+      "name": "Canva",
+      "level": 80
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Student Business Plan",
+      "category": "Entrepreneurship",
+      "description": "Created a basic business plan for a hypothetical student-focused food delivery startup, covering the target market, value proposition, marketing strategy, and basic financial estimates.",
+      "technologies": [
+        "Market Research",
+        "Canva",
+        "Microsoft Excel"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "Social Media Marketing Analysis",
+      "category": "Marketing",
+      "description": "Analyzed the social media presence of selected brands and studied their content strategy, target audience, engagement techniques, and brand positioning.",
+      "technologies": [
+        "Market Research",
+        "Social Media",
+        "Canva"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "category": "Technology",
+      "description": "Designed and developed a responsive personal portfolio website using HTML, CSS, JavaScript, and JSON.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "link": "#"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "organization": "Example Academy",
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel Fundamentals",
+      "organization": "Example Learning Platform",
+      "year": "2026",
+      "link": "#"
+    }
+  ],
+
+  "experience": [
+    {
+      "position": "Student Volunteer",
+      "organization": "College Business Club",
+      "duration": "2026 - Present",
+      "description": "Assisted with event planning, promotion, participant coordination, and basic social media activities."
+    }
+  ],
+
+  "achievements": [
+    "Participated in an inter-college business quiz",
+    "Presented a startup idea as part of a college activity",
+    "Volunteered at a college entrepreneurship event"
+  ],
+
+  "interests": [
+    "Entrepreneurship",
+    "Marketing",
+    "Business Strategy",
+    "Technology",
+    "Personal Finance",
+    "Public Speaking"
+  ]
